@@ -1,4 +1,4 @@
-module github.com/dsp-testing/module_major_version_mismatch_v1
+module github.com/dependabot-fixtures/module_major_version_mismatch_v1
 
 go 1.13
 
